@@ -111,6 +111,13 @@ a:active {
 
 .attribution {
   color: black;
+  text-align: center;
+}
+
+.attribution a {
+  text-decoration: none;
+  background-color: hsl(0, 0%, 95%);
+  padding: 0;
 }
 
 @media (max-width: 822px) {
